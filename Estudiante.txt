@@ -1,0 +1,5 @@
+NOMBRE DEL ESTUDIANTE:Nizar Sanchez
+Calificaciones correspondientes al semestre --->[1]
+[81.000000 , 6]
+Total de creditos correspondiente al semestre [1]----->6
+INDICE GENERAL------>81
